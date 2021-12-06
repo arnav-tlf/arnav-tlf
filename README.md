@@ -2,4 +2,4 @@
 - 👀 I’m interested in Operations Research & AI/ML in Mobility.
 - 🌱 I’m currently learning DSA & ML.
 - 💞️ I’m looking to collaborate on simple training models
-- 📫 Put up a mail on arnav.sharma_2021@nrti.edu.in
+- 📫 Put up a mail on arnav.sharma@plaksha.edu.in
