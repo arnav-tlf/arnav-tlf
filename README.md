@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arnav-tlf
 - 👀 I’m interested in Operations Research, Network Science & AI/ML.
-- 🌱 I’m currently learning Deep Learning Applications.
+- 🌱 I’m currently working on building a Recommendation System for HRS Group, Berlin.
 - 💞️ I’m looking to contibute on Production level ML applications.
 - 📫 Put up a mail on arnav.sharma@plaksha.edu.in
